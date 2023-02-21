@@ -11,4 +11,7 @@ def model2():
 
 def model3():
     print("Adding code for ML model3")
-    
+
+
+print("model 2 is the best one to use in prod")    
+
